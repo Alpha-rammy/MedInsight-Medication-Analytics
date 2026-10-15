@@ -152,7 +152,8 @@ To improve performance and simplify analysis, I organised the solution using a s
 
 ### Data Model
 
-Images/star_schema.png
+![Star Schema Data Model](
+Images/star_schema.png)
 
 ```text
           DimDate
@@ -223,7 +224,8 @@ to analyse expenditure trends over time.
 
 ## 📊 Dashboard 1 — Executive Overview
 
-Images/executive_overview.png
+![MedInsight Executive Overview](
+Images/executive_overview.png)
 
 I designed the Executive Overview page to provide stakeholders with a high-level summary of medication activity and expenditure.
 
@@ -249,7 +251,8 @@ The page combines expenditure trends, medication status, demographics, and top-c
 
 ## 👥 Dashboard 2 — Patient Segmentation
 
-Images/patient_segmentation.png
+![Patients Segmentation Dashboard](
+Images/patient_segmentation.png)
 
 After understanding overall activity, I wanted to determine whether medication utilisation was distributed evenly across the patient population.
 
@@ -290,7 +293,8 @@ Instead, I viewed these patients as a cohort that may warrant additional investi
 
 ## 📈 Dashboard 3 — Medication Trends & Cost
 
-Images/medication_trends_cost.png
+![Medication Trends and Cost Dashboard](
+Images/medication_trends_cost.png)
 
 To understand how expenditure changed over time, I developed measures and visualisations for:
 
